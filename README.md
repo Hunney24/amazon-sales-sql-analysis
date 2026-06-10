@@ -116,12 +116,6 @@ The dataset contains Amazon sales transaction records including:
 
 ---
 
-## Future Improvements
-
-- Add advanced window function analysis
-- Build a Power BI dashboard using the same dataset
-- Add visualizations and query output screenshots
-- Perform customer segmentation analysis
 
 ---
 
